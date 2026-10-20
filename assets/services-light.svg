@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+<rect x="0.5" y="0.5" width="383.0" height="229" rx="12" fill="#f6f8fa" stroke="#d1d9e0"/>
+<text x="32.0" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1" fill="#0969da">01</text>
+<text x="32.0" y="98" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="-0.5" fill="#1f2328">Webs &amp; ecommerce</text>
+<text x="32.0" y="140" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">Custom websites and online stores</text>
+<text x="32.0" y="168" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">built from scratch with Next.js</text>
+<text x="32.0" y="196" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">and Medusa.js.</text>
+<rect x="408.5" y="0.5" width="383.0" height="229" rx="12" fill="#f6f8fa" stroke="#d1d9e0"/>
+<text x="440.0" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1" fill="#0969da">02</text>
+<text x="440.0" y="98" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="-0.5" fill="#1f2328">Rescue &amp; tune-up</text>
+<text x="440.0" y="140" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">Fixing slow or broken sites:</text>
+<text x="440.0" y="168" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">performance, technical SEO</text>
+<text x="440.0" y="196" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">and Core Web Vitals.</text>
+<rect x="816.5" y="0.5" width="383.0" height="229" rx="12" fill="#f6f8fa" stroke="#d1d9e0"/>
+<text x="848.0" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1" fill="#0969da">03</text>
+<text x="848.0" y="98" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="-0.5" fill="#1f2328">Interface redesign</text>
+<text x="848.0" y="140" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">Cleaner, faster interfaces</text>
+<text x="848.0" y="168" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">that convert better and</text>
+<text x="848.0" y="196" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">are easier to maintain.</text>
+</svg>

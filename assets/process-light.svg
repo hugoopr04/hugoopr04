@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+<rect x="0.5" y="0.5" width="383.0" height="229" rx="12" fill="#f6f8fa" stroke="#d1d9e0"/>
+<text x="32.0" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1" fill="#0969da">PRICE</text>
+<text x="32.0" y="98" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="-0.5" fill="#1f2328">Fixed scope</text>
+<text x="32.0" y="140" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">Price and timeline agreed</text>
+<text x="32.0" y="168" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">before a single line</text>
+<text x="32.0" y="196" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">of code is written.</text>
+<rect x="408.5" y="0.5" width="383.0" height="229" rx="12" fill="#f6f8fa" stroke="#d1d9e0"/>
+<text x="440.0" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1" fill="#0969da">RHYTHM</text>
+<text x="440.0" y="98" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="-0.5" fill="#1f2328">Weekly progress</text>
+<text x="440.0" y="140" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">A working preview every week,</text>
+<text x="440.0" y="168" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">so you see the product</text>
+<text x="440.0" y="196" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">grow — not a black box.</text>
+<rect x="816.5" y="0.5" width="383.0" height="229" rx="12" fill="#f6f8fa" stroke="#d1d9e0"/>
+<text x="848.0" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1" fill="#0969da">QUALITY</text>
+<text x="848.0" y="98" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="-0.5" fill="#1f2328">SEO built in</text>
+<text x="848.0" y="140" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">Technical SEO, accessibility</text>
+<text x="848.0" y="168" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">and performance included</text>
+<text x="848.0" y="196" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">in every project.</text>
+</svg>
