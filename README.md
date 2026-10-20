@@ -59,8 +59,8 @@ Currently developing at **[Xync](https://www.xync.es/)**, a web development and 
 ### Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugoopr04/hugoopr04/output/contributions-dark.svg">
-  <img alt="Contribution activity" src="https://raw.githubusercontent.com/hugoopr04/hugoopr04/output/contributions.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugoopr04/hugoopr04/output/activity-dark.svg">
+  <img alt="Contribution activity" src="https://raw.githubusercontent.com/hugoopr04/hugoopr04/output/activity-light.svg" width="100%">
 </picture>
 
 <br>
