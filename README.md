@@ -56,15 +56,6 @@ Currently developing at **[Xync](https://www.xync.es/)**, a web development and 
 
 <br>
 
-### Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugoopr04/hugoopr04/output/activity-dark.svg">
-  <img alt="Contribution activity" src="https://raw.githubusercontent.com/hugoopr04/hugoopr04/output/activity-light.svg" width="100%">
-</picture>
-
-<br>
-
 ### Get in touch
 
 Have a project in mind — a new website, an online store or a site that needs fixing?
