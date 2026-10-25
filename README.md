@@ -8,7 +8,7 @@
 I build applications, websites and online stores — from the first sketch to the last deploy.
 I care about fast interfaces, clean code and products that feel simple to use.
 
-Currently developing at **[Xync](https://www.xync.es/)**, a web development and design studio based in Salamanca, working with clients across Spain and Latin America.
+I run **[Prieto Network](https://prietonetwork.vercel.app/)**, an independent design and development studio based in Salamanca, Spain.
 
 <br>
 
@@ -31,7 +31,7 @@ Currently developing at **[Xync](https://www.xync.es/)**, a web development and 
 | **The Byte** | Digital newspaper | Built for search and fast reading |
 | **Lumière** | Restaurant website | Dynamic, easy-to-update menu |
 
-<sub>More at <a href="https://www.xync.es/">xync.es</a></sub>
+<sub>More at <a href="https://prietonetwork.vercel.app/">prietonetwork.vercel.app</a></sub>
 
 <br>
 
@@ -59,7 +59,7 @@ Currently developing at **[Xync](https://www.xync.es/)**, a web development and 
 ### Get in touch
 
 Have a project in mind — a new website, an online store or a site that needs fixing?
-Start the conversation at **[xync.es](https://www.xync.es/)**.
+Start the conversation at **[prietonetwork.vercel.app](https://prietonetwork.vercel.app/)** or write to **hola@prietonetwork.es**.
 
 <br>
 
